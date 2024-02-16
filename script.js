@@ -17,7 +17,7 @@ const products = [
     name: "#1 Selling",
 	category: "Hot Choclate",
     price: 12.99,   
-	img : "http://127.0.0.1:5500/Revision/Cart/Pic/2.png"
+	img : "Pic/2.png"
     
   },
   {
@@ -26,7 +26,7 @@ const products = [
 	category: "Double Espresso",
 	
     price: 39.99,
-	img : "http://127.0.0.1:5500/Revision/Cart/Pic/1.png"
+	img : "Pic/1.png"
   },
   {
     id: 3,
@@ -34,7 +34,7 @@ const products = [
 	category: "Espresso Mochha",
     price: 29.99,
     
-	img:"http://127.0.0.1:5500/Revision/Cart/Pic/3.png"
+	img:"Pic/3.png"
   }
   
   
